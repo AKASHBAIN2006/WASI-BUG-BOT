@@ -3,26 +3,27 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923192173398"
-global.ownername = "🐛 MR WASI "
+global.ownernomer = "919614477116"
+global.ownername = "🐛 MR LUTHER "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
-global.location = "Pakistan, Lahore"
+global.location = "India, kolkata"
 
-global.ownernumber = '923347748038'  //creator number
-global.ownername = ' MR WASI ' //owner name
-global.botname = 'WASI TECH BUG BOT ' //name of the bot
+global.ownernumber = '919614477116'  //creator number
+global.ownername = ' 🐛 MR LUTHER ' //owner name
+global.botname = 'LUTHER TECH BUG BOT ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'WASI'
+global.packname = ' 🐳𝔰𝔲𝔟𝔞𝔯𝔲 𝔦𝔰 𝔫𝔬𝔱 𝔞 𝔫𝔞𝔪𝔢 𝔦𝔱 𝔦𝔰 𝔞 𝔟𝔯𝔞𝔫𝔡 😎+919614477***'
+global.author = ' 🎋🐈‍⬛𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈'𝐌  ＳＵＢＡＲＵ
+𝐀𝐒𝐈𝐀'𝐒 𝐁𝐈𝐆𝐆𝐄𝐒𝐓 𝐒𝐓𝐈𝐂𝐊𝐄𝐑𝐒 𝐂𝐑𝐄𝐀𝐓𝐎𝐑🌈'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "WASI TECH"
+global.wm = "LUTHER TECH"
 
 //theme link
-global.link = 'https://whatsapp.com'
+global.link = 'https://chat.whatsapp.com/HB2UPWZ1gG1DfOXMtgRTm4'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
